@@ -1,7 +1,7 @@
 //your code here
 void setup()
 {
-	//your code here
+background(2, 1, 36);
 }
 void draw()
 {
